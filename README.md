@@ -1,7 +1,7 @@
 # Movies App 
 > A clone app for IMDB Website
 
-![image](https://github.com/harita-gr/Hulu_app/blob/7b7f2aee7b11bc5ec0a3d39511c4808915536ca2/Screenshot%202021-11-02%20162012.jpg)
+![image](https://github.com/harita-gr/Movies_app/blob/1703e61ac2c1f493d128d145968cfee590067c03/Screenshot%202021-11-09%20120905.jpg)
 ---
 ### Built Using
 - React.js
