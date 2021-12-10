@@ -1,7 +1,7 @@
 import React from "react";
 import {
   BrowserRouter as Router,
-  Routes, //replaces "Switch"
+  Routes, //replaces "Switch" used till v5
   Route,
 } from "react-router-dom";
 import "./App.scss";
@@ -30,3 +30,6 @@ function App() {
 }
 
 export default App;
+
+
+
