@@ -12,6 +12,8 @@
 ### Features
 - View list of movies and shows
 - View individual movie/show details
+- Slider
+- Search
 
 ![image](https://github.com/harita-gr/Movies_app/blob/49dc178e6a09626c277afb5a29fabd9829d43bbd/Screenshot%202021-11-09%20121141.jpg)
 
